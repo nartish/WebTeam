@@ -5,5 +5,24 @@
 /*TYPE*/
 
 /*ABOUT*/
-
+span{
+    color: #D53696;
+    text-decoration: underline;
+    text-decoration-color: #D53696;
+}
+#about-bottom-nav{
+    color: #67B879;
+}
+.about-bottom-is{
+    text-decoration: underline;
+    text-decoration-color: #67B879;
+}
+.about-bottom-ccs{
+    text-decoration: underline;
+    text-decoration-color: #67B879;
+}
+.about-bottom-mbls{
+    text-decoration: underline;
+    text-decoration-color: #67B879;
+}
 /*POETRY*/

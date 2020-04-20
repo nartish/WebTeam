@@ -1,0 +1,202 @@
+    /*~~~~DECORATIVE - DISPLAY~~~~*/
+/*Half-Baked - Regular*/
+@font-face {
+    font-family: 'half-baked_regular';
+    src: url('typefaces woff/half-baked-regular-webfont.woff2') format('woff2'),
+         url('typefaces woff/half-baked-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+/*Half-Baked - Bubble*/
+@font-face {
+    font-family: 'half-baked_bubble';
+    src: url('typefaces woff/half-baked-bubble.woff2') format('woff2'),
+         url('typefaces woff/half-baked-bubble.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+/*Nufrakturv - Regular*/
+@font-face {
+    font-family: 'nufrakturv2_regular';
+    src: url('typefaces woff/copy_of_nufrakturv2-webfont.woff2') format('woff2'),
+         url('typefaces woff/copy_of_nufrakturv2-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+/*Looming - Regular*/
+@font-face {
+    font-family: 'looming_regular';
+    src: url('typefaces woff/looming-webfont.woff2') format('woff2'),
+         url('typefaces woff/looming-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+/*Mango Pickle - Regular*/
+@font-face {
+    font-family: 'mangopickle_regular';
+    src: url('typefaces woff/mangopickle-regular_wip-webfont.woff2') format('woff2'),
+         url('typefaces woff/mangopickle-regular_wip-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+/*Mango Pickle - Thin*/
+@font-face {
+    font-family: 'mangopickle_thin';
+    src: url('typefaces woff/mangopickle-thin-wip-webfont.woff2') format('woff2'),
+         url('typefaces woff/mangopickle-thin-wip-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+/*Midwestern Feminine - Thin*/
+@font-face {
+    font-family: 'midwesternfeminine_thick';
+    src: url('typefaces woff/midwesternfeminine-thick-webfont.woff2') format('woff2'),
+         url('typefaces woff/midwesternfeminine-thick-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+/*Midwestern Feminine - Thick*/
+@font-face {
+    font-family: 'midwesternfeminine_thin';
+    src: url('typefaces woff/midwesternfeminine-thin-webfont.woff2') format('woff2'),
+         url('typefaces woff/midwesternfeminine-thin-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+/*Sway - Hand*/
+@font-face {
+    font-family: 'sway_hand';
+    src: url('typefaces woff/sway-hand-webfont.woff2') format('woff2'),
+         url('typefaces woff/sway-hand-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+/*Voltaic*/
+@font-face {
+    font-family: 'voltaic_regular';
+    src: url('typefaces woff/voltaic_v3-webfont.woff2') format('woff2'),
+         url('typefaces woff/voltaic_v3-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+    /*~~~~SANS SERIF~~~~*/
+/*Easy Peasy - Regular*/
+@font-face {
+    font-family: 'easy_peasy_relaxed';
+    src: url('typefaces woff/easypeasy-relaxed-webfont.woff2') format('woff2'),
+         url('typefaces woff/easypeasy-relaxed-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+/*Stout - Light*/
+@font-face {
+    font-family: 'stout_light';
+    src: url('typefaces woff/stout-light-webfont.woff2') format('woff2'),
+         url('typefaces woff/stout-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+/*Stout - Heavy*/
+@font-face {
+    font-family: 'stout_heavy';
+    src: url('typefaces woff/stout-heavy-webfont.woff2') format('woff2'),
+         url('typefaces woff/stout-heavy-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+/*Rook - Regular*/
+@font-face {
+    font-family: 'rook_regular';
+    src: url('typefaces woff/rook-regular-webfont.woff2') format('woff2'),
+         url('typefaces woff/rook-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+/*Museum Grotesque - Regular*/
+@font-face {
+    font-family: 'museumgrotesque_regular';
+    src: url('typefaces woff/museumgrotesque-regular.woff2') format('woff2'),
+         url('typefaces woff/museumgrotesque-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+/*Museum Grotesque - Round*/
+@font-face {
+    font-family: 'museumgrotesque_round';
+    src: url('typefaces woff/museumgrotesquerounded-regular.woff2') format('woff2'),
+         url('typefaces woff/museumgrotesquerounded-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+    /*~~~~SERIF~~~~*/
+/*Greta Protest - Regular*/
+@font-face {
+    font-family: 'gretaprotest';
+    src: url('typefaces woff/greta-protest-webfont.woff2') format('woff2'),
+         url('typefaces woff/greta-protest-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+/*Hamtramck - Regular*/
+@font-face {
+    font-family: 'hamtramck_regular';
+    src: url('typefaces woff/hamtramck-regular-webfont.woff2') format('woff2'),
+         url('typefaces woff/hamtramck-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+/*Sway - Chisel*/
+@font-face {
+    font-family: 'sway_chisel';
+    src: url('typefaces woff/sway-chisel-webfont.woff2') format('woff2'),
+         url('typefaces woff/sway-chisel-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+/*MrsV - Regular*/
+@font-face {
+    font-family: 'msv_regular';
+    src: url('typefaces woff/msv-regular-webfont.woff2') format('woff2'),
+         url('typefaces woff/msv-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+/*Nitra - Regular*/
+@font-face {
+    font-family: 'nitra_regular';
+    src: url('typefaces woff/nitra_-_wip-webfont.woff2') format('woff2'),
+         url('typefaces woff/nitra_-_wip-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+/*Nook - Regular*/
+@font-face {
+    font-family: 'nook_regular';
+    src: url('typefaces woff/nook-wip-webfont.woff2') format('woff2'),
+         url('typefaces woff/nook-wip-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+/**/

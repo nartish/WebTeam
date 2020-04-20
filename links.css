@@ -5,5 +5,58 @@
 /*TYPE*/
 
 /*ABOUT*/
-
+.about-nav-type:hover {
+    color: #D44234;
+    font-family: 'half-baked_bubble';
+    src: url('typefaces woff/half-baked-bubble.woff2') format('woff2'),
+         url('typefaces woff/half-baked-bubble.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-decoration-color: #D44234;
+}
+.about-nav-about:hover {
+    color: #D44234;
+    font-family: 'half-baked_bubble';
+    src: url('typefaces woff/half-baked-bubble.woff2') format('woff2'),
+         url('typefaces woff/half-baked-bubble.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-decoration-color: #D44234;
+}
+.about-nav-poetry:hover {
+    color: #D44234;
+    font-family: 'half-baked_bubble';
+    src: url('typefaces woff/half-baked-bubble.woff2') format('woff2'),
+         url('typefaces woff/half-baked-bubble.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-decoration-color: #D44234;
+}
+.about-nav-type:active {
+  color: #D44234;
+    font-family: 'half-baked_bubble';
+    src: url('typefaces woff/half-baked-bubble.woff2') format('woff2'),
+         url('typefaces woff/half-baked-bubble.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+.about-nav-about:active {
+  color: #D44234;
+    font-family: 'half-baked_bubble';
+    src: url('typefaces woff/half-baked-bubble.woff2') format('woff2'),
+         url('typefaces woff/half-baked-bubble.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+.about-nav-poetry:active {
+  color: #D44234;
+    font-family: 'half-baked_bubble';
+    src: url('typefaces woff/half-baked-bubble.woff2') format('woff2'),
+         url('typefaces woff/half-baked-bubble.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 /*POETRY*/

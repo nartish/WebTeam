@@ -3,7 +3,62 @@
 /*INDEX-HOMEPAGE*/
 
 /*TYPE*/
-
+#container{
+    font-size: 5vw;
+}
 /*ABOUT*/
-
+#about-nav{
+    font-size: 1.5vw;
+    margin: 0;
+    position: absolute;
+    top: 3vw;
+}
+.about-nav-type{
+    margin: 0;
+    position: absolute;
+    left: 30vw;
+}
+.about-nav-about{
+    margin: 0;
+    position: absolute;
+    left: 45vw;
+}
+.about-nav-poetry{
+    margin: 0;
+    position: absolute;
+    left: 60vw;
+}
+#about-body{
+    font-size: 4.5vw;
+    position: absolute;
+    top: 5vw;
+    left: 15vw;
+}
+#about-lines{
+    font-size: .75vw;
+    position: absolute;
+    top: 10vw;
+    left: 8vw;
+    line-height: 5vw;
+    
+}
+#about-bottom-nav{
+    font-size: 1.5vw;
+    
+}
+.about-bottom-is{
+    position: absolute;
+    top: 45vw;
+    left: 28vw;
+}
+.about-bottom-ccs{
+    position: absolute;
+    top: 45vw;
+    left: 40vw;
+}
+.about-bottom-mbls{
+    position: absolute;
+    top: 45vw;
+    left: 64vw;
+}
 /*POETRY*/
